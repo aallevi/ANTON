@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
- by [[antonio allevi]], studente all'accademia di belle arti di brera.
+by [[antonio allevi]], brera academy student.
 
 tra poco muori,
 

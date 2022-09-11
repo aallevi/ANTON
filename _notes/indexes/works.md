@@ -1,6 +1,6 @@
 ---
 title: "works"
 ---
-- [[proof]]
+- [[output]]
 - [[ai em landscapes]]
 - [[padana titans]]
