@@ -1,4 +1,5 @@
 ---
+title: "works"
 ---
 - [[proof]]
 - [[ai em landscapes]]

@@ -1,5 +1,5 @@
 ---
-
+title: "main index"
 ---
 - [[works]]
 - [[antonio allevi]]
