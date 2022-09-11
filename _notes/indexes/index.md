@@ -1,6 +1,6 @@
 ---
 
 ---
-- [[indexes/works]]
-- [antonio allevi](people/antonio%20allevi.md)
+- [[works]]
+- [[antonio allevi]]
 - [[your first note]]
