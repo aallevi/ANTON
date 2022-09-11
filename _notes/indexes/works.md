@@ -1,5 +1,5 @@
 ---
 ---
-- [[proof]]
-- [[ai em landscapes]]
-- [[padana titans]]
+- [proof](works/proof.md)
+- [ai em landscapes](works/ai%20em%20landscapes.md)
+- [padana titans](works/padana%20titans.md)
