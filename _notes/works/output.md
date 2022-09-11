@@ -1,5 +1,5 @@
 ---
-title: output
+title: "output"
 tags: type/works
 author: "[[antonio allevi]]"
 ---
