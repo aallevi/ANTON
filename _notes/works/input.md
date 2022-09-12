@@ -1,11 +1,11 @@
 ---
-title: output
+title: input
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# output
+# input
 
-studies for my work **"n.9"**, yet to be finished.
+studies for my work **"n.9"**, which is yet to be finished.
 
 <img src="/assets/input/n.1.PNG">
 

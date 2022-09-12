@@ -2,6 +2,6 @@
 title: works
 ---
 
-- [[output]]
+- [[input]]
 - [[ai em landscapes]]
 - [[padana titans]]
