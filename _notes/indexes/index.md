@@ -6,8 +6,8 @@ permalink: /
 ---
 
 - [[works]]
-- [[antonio allevi]]
 
+- [[antonio allevi]]
 
 <img src="/assets/cerchio 700.jpg">
 
