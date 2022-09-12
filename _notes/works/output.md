@@ -5,12 +5,34 @@ author: "[[antonio allevi]]"
 ---
 # output
 
-studies for my work **"n.8"**, yet to be finished.
+studies for my work **"n.9"**, yet to be finished.
 
-<img src="/assets/IMG_2632.PNG">
+<img src="/assets/input/n.1.PNG">
 
-n.4 
-_(100x70, ink, paper)_
+_n.4_
+_(100x70cm, ink, paper)_
 
 
+<img src="/assets/input/n.2.PNG">
+
+_n.5_
+_(100x70cm, ink, paper)_
+
+
+<img src="/assets/input/n.3.PNG">
+
+_n.6_
+_(100x70cm, ink, paper)_
+
+
+<img src="/assets/input/n.4.PNG">
+
+_n.7_
+_(100x70cm, ink, paper)_
+
+
+<img src="/assets/input/n.5.PNG">
+
+_n.8_
+_(100x70cm, ink, paper)_
 
