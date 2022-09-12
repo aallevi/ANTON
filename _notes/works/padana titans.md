@@ -1,4 +1,6 @@
 ---
+title: padana titans
 tags: type/works
-author: "[antonio allevi](antonio%20allevi.md)"
+author: "[[antonio allevi]]"
 ---
+

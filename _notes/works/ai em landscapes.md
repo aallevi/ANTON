@@ -1,8 +1,9 @@
 ---
-title: "ai em landscapes"
+title: ai em landscapes
 tags: type/works
 author: "[[antonio allevi]]"
 ---
+# ai emotional landscapes
 
 <img src="/assets/1jpeg.jpg">
 

@@ -1,5 +1,5 @@
 ---
-title: "works"
+title: works
 ---
 
 - [[output]]
