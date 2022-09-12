@@ -9,7 +9,7 @@ permalink: /
 - [[antonio allevi]]
 
 
-<img src="assets\IMG_2515 (Small).jpg">
+<img src="/assets/IMG_2515 (Small).jpg">
 
 
 
