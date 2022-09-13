@@ -3,7 +3,7 @@ title: ai em landscapes
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# ai emotional landscapes
+# a good place
 
 <img src="/assets/aiemlandscapes/1jpeg.jpg">
 

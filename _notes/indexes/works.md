@@ -3,5 +3,5 @@ title: works
 ---
 
 - [[input]]
-- [[ai em landscapes]]
+- [[a good place]]
 - [[la signora Le Volte]]
