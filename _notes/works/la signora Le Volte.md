@@ -3,7 +3,7 @@ title: la signora le volte
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# la signora Le Volte
+# La signora Le Volte
 
 <img src="/assets/La signora le volte/1.JPG">
 

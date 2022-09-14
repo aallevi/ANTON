@@ -1,7 +1,7 @@
 ---
-title: works
+title: Works
 ---
 
-- [[input]]
-- [[a good place]]
-- [[la signora Le Volte]]
+- [[Input]]
+- [[A good place]]
+- [[La signora Le Volte]]

@@ -5,12 +5,10 @@ id: home
 permalink: /
 ---
 
-- [[works]]
-- [[antonio allevi]]
+- [[Works]]
+- [[Antonio Allevi]]
 
 <img src="/assets/cerchio 700.jpg">
-
-
 
 
 

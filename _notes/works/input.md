@@ -1,9 +1,9 @@
 ---
-title: input
+title: Input
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# input
+# Input
 
 studies for my work **"n.9"**, which is yet to be finished.
 

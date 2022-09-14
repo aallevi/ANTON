@@ -1,9 +1,9 @@
 ---
-title: ai em landscapes
+title: A good place
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# a good place
+# A good place
 
 <img src="/assets/aiemlandscapes/1jpeg.jpg">
 
