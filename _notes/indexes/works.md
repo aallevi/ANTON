@@ -2,8 +2,8 @@
 title: Works
 ---
 
-[[Input]]
+- [[Input]]
 
-[[A good place]]
+- [[A good place]]
 
-[[La signora Le Volte]]
+- [[La signora Le Volte]]
