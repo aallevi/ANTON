@@ -25,6 +25,6 @@ author: "[[antonio allevi]]"
 
 
 
-_ink on 100x70cm paper_
+_ink on 100x70cm sheets of paper_
 
 studies for the final work, which is yet to be finished.
