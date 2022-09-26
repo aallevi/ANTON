@@ -5,7 +5,7 @@ author: "[[antonio allevi]]"
 ---
 # lavoro generale sull'esistenza per interazione
 
-studies for my work **"n.9"**, which is yet to be finished.
+studies for the final work, which is yet to be finished.
 
 <img src="/assets/input/n.1.PNG">
 
