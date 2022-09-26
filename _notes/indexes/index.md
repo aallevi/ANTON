@@ -9,7 +9,6 @@ permalink: /
 
 - [[Antonio Allevi]]
 
-
 <img src="/assets/cerchio 700.jpg">
 
 
