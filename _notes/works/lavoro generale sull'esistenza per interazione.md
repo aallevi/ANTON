@@ -3,7 +3,7 @@ title: lavoro generale sull'esistenza per interazione
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# lavoro generale sull'esistenza per interazione
+# generale sull'esistenza per interazione
 
 studies for the final work, which is yet to be finished.
 
@@ -27,6 +27,8 @@ studies for the final work, which is yet to be finished.
 
 
 
-
 _ink on 100x70cm paper_
+
+studies for the final work, which is yet to be finished.
+
 
