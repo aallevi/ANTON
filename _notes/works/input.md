@@ -1,9 +1,9 @@
 ---
-title: Input
+title: lavoro generale sull'esistenza per interazione
 tags: type/works
 author: "[[antonio allevi]]"
 ---
-# Input
+# lavoro generale sull'esistenza per interazione
 
 studies for my work **"n.9"**, which is yet to be finished.
 
@@ -27,5 +27,6 @@ studies for my work **"n.9"**, which is yet to be finished.
 
 
 
-_paper,ink. 100x70cm sheets_
+
+_ink on 100x70cm paper_
 

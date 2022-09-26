@@ -2,7 +2,7 @@
 title: Works
 ---
 
-- [[Input]]
+- [[lavoro generale sull'esistenza per interazione]
 
 - [[A good place]]
 
