@@ -23,9 +23,6 @@ author: "[[antonio allevi]]"
 <img src="/assets/La signora le volte/6.JPG">
 
 
-<img src="/assets/La signora le volte/7.JPG">
-
-
 <img src="/assets/La signora le volte/8.JPG">
 
 
