@@ -7,4 +7,4 @@ author: "[[antonio allevi]]"
 # Percorso dei miei vestiti
 
 <img src="/assets/corti/clothingflow.jpg">
-_aprile 2022_
+aprile 2022
